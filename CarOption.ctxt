@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=CarOption(CarColor)
+comment0.text=\r\n\ CarOption\ constructor\ accepting\ CarColor\ variable\r\n
+comment1.params=opt
+comment1.target=CarOption(CarOption)
+comment1.text=\r\n\ CarOption\ constructor\ accepting\ CarOption\ variable\r\n
+comment2.params=
+comment2.target=double\ cost()
+comment2.text=\r\n\ get\ CarOption\ cost\ price\r\n
+comment3.params=co
+comment3.target=boolean\ equals(CarOption)
+comment3.text=\r\n\ verify\ if\ the\ paramater\ is\ equal\ to\ this\ object\r\n
+comment4.params=
+comment4.target=boolean\ isDuplicate()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

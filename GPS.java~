@@ -1,0 +1,26 @@
+public class GPS extends CarOption
+{
+    public GPS(CarColor car)
+    {
+        super(car);
+    }
+    public GPS(CarOption option)
+    {
+        super(option);
+    }
+    
+	/**
+     * verifies if the paramater is equal to this object
+     */
+	public boolean equals(CarOption option)
+	{	
+		return option instanceof GPS;
+	}
+	
+    public String toString()
+    {
+        return super.toString() + " GPS \r\n";
+    }
+    
+
+}

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=choice
+comment0.target=CarModelImproved(char)
+comment0.text=\ \r\n\ CarModelmproved\ Constructor\r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ Get\ CarModelImproved\ cost\ price\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nextCar
+comment0.target=CarItem(CarItem)
+comment0.text=\r\n\ CarItem\ Constructior\r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ return\ the\ cost\ of\ next\ car\ item\r\n
+comment2.params=check
+comment2.target=boolean\ isDuplicate(CarOption)
+comment2.text=\r\n\ Verify\ if\ the\ parameter\ is\ a\ duplicate\ object\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ returns\ the\ String\ description\ of\ next\ Car\ Item\r\n
+numComments=4

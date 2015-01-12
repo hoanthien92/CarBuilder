@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarModel()
+comment0.text=\r\n\ CarModel\ constructor\r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ GET\ CarModel\ cost\ price\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ string\r\n
+numComments=3

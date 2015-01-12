@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ Method\r\n
+comment1.params=
+comment1.target=int\ menu()
+comment1.text=\r\n\ Displays\ Menu\r\n
+comment2.params=cb
+comment2.target=void\ requestModel(CarBuilder)
+comment2.text=\r\n\ Calls\ the\ appropriate\ method\ on\ the\ builder\ until\ input\ is\ accepted\r\n
+comment3.params=cb
+comment3.target=void\ requestColors(CarBuilder)
+comment3.text=\r\n\ Calls\ the\ appropriate\ method\ on\ the\ builder\ for\ color\ until\ input\ is\ accepted\r\n
+comment4.params=cb
+comment4.target=void\ requestOptions(CarBuilder)
+comment4.text=\r\n\ Calls\ the\ appropriate\ method\ on\ the\ builder\ for\ option\ until\ input\ is\ accepted\ (Note\ that\ option\ is\ disappeared\ after\ being\ selected)\r\n
+comment5.params=ci
+comment5.target=void\ showOrder(CarItem)
+comment5.text=\r\n\ Method\ to\ show\ Order\r\n
+numComments=6

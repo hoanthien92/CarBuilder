@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=car
+comment0.target=Alloy(CarColor)
+comment1.params=option
+comment1.target=Alloy(CarOption)
+comment2.params=option
+comment2.target=boolean\ equals(CarOption)
+comment2.text=\r\n\ verifies\ if\ the\ paramater\ is\ equal\ to\ this\ object\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

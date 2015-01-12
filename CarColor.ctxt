@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=car
+comment0.target=CarColor(CarModelImproved)
+comment0.text=\r\n\ CarColor\ Constructor,\ accepting\ a\ CarModelImproved\ variable\r\n
+comment1.params=color
+comment1.target=CarColor(CarColor)
+comment1.text=\r\n\ CarColor\ Constructor\ accepting\ CarColor\ variable\r\n
+comment2.params=
+comment2.target=double\ cost()
+comment2.text=\r\n\ get\ CarColor\ cost\ price\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ get\ CarColor\ String\r\n
+numComments=4
